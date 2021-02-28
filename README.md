@@ -1,5 +1,5 @@
-<img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 ## Hi there, I'm [Hritik!](https://hritik1228.000webhostapp.com/) 👋 💻
+<img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
 ## I'm a Student, Computer Science Engineer, Developer, and Learner!!
 
@@ -41,4 +41,4 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hritik1228&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abegpatel&show_icons=true&hide_border=true" />
