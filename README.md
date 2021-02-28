@@ -1,4 +1,4 @@
-## Hi there, I'm [Hritik!](https://hritik1228.000webhostapp.com/) 👋 💻
+## Hi there, I'm [Abeg!](https://hritik1228.000webhostapp.com/) 👋 💻
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
 ## I'm a Student, Computer Science Engineer, Developer, and Learner!!
@@ -14,7 +14,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hritik1228/count.svg" />
+  <img src="https://profile-counter.glitch.me/abegpatel/count.svg" />
 </p>
 
 ### Find me around the web 🌎
