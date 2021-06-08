@@ -19,9 +19,9 @@
 
 ### Find me around the web 🌎
 
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/hritikcsengr/)
-- Your future buddy to discuss tech in general on [Twitter](https://twitter.com/Hritik2812)
-- To add value in your life [Instagram](https://www.instagram.com/hr_hritik_/)
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/abeg-patel-64129a1b7/)
+- Your future buddy to discuss tech in general on [Twitter]()
+- To add value in your life [Instagram](https://www.instagram.com/im_jhonrabbit/)
 - And of course GitHub you're already on (Recursion)
 <br />
 
