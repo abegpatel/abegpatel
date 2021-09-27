@@ -20,7 +20,7 @@
 ### Find me around the web 🌎
 
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/abeg-patel-64129a1b7/)
-- Your future buddy to discuss tech in general on [Twitter]()
+- Your future buddy to discuss tech in general on [Twitter](https://twitter.com/AbegPatel)
 - To add value in your life [Instagram](https://www.instagram.com/im_jhonrabbit/)
 - And of course GitHub you're already on (Recursion)
 <br />
