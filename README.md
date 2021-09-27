@@ -1,7 +1,7 @@
 ## Hi there, I'm [Abeg!](https://abegportfolio.netlify.app//) 👋 💻
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
-## I'm a Student, Computer Science Engineer, Developer, and Learner!!
+## Programmer Analyts at Cognizant!!
 
 - 🔭 I’m Looking for a full-time opportunity
 - 🌱 I’m currently learning AWS
